@@ -1,0 +1,5 @@
+<div>
+	<a href="javascript:void(0);" onclick="navigator.geolocation.getCurrentPosition(currentplace)">
+		Google Mapsアプリで<br />現在地からのルートを表示
+	</a>
+</div>
