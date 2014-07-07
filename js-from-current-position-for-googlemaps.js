@@ -12,7 +12,7 @@ function currentplace(position){
     // var routemap = 'comgooglemaps://?saddr='+lat+','+lng+'&daddr=35.712924,139.705445&directionsmode=walking';
     // 住所を使う場合
     // var routemap = 'comgooglemaps://?saddr='+lat+','+lng+'&daddr=新宿区高田馬場1丁目26-12&directionsmode=walking';
-
+    
     location.href = routemap;
 }
 // --></script>
