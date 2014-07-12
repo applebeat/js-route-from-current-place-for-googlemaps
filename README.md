@@ -1,4 +1,4 @@
-js-root-from-current-place-for-googlemaps
+js-route-from-current-place-for-googlemaps
 =======================================
 
 スマートホンなどからワンタップでGoogle Mapsを起動して現在位置からのルートを表示させます。  
