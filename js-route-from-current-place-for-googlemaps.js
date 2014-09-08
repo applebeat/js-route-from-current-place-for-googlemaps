@@ -7,6 +7,7 @@ function currentplace(position){
     var lat = position.coords.latitude;
     var lng = position.coords.longitude;
     var routemap = 'comgooglemaps://?saddr='+lat+','+lng+'&daddr=目的地&directionsmode=walking';
+    // 必ず目的地を設定する必要があります。
     // 「目的地」の入力例
     // 北緯東経を使う場合
     // var routemap = 'comgooglemaps://?saddr='+lat+','+lng+'&daddr=35.712924,139.705445&directionsmode=walking';
